@@ -1,0 +1,67 @@
+{
+    "name": "paulohuertas",
+    "position": "Software Developer",
+    "github": "paulohuertas",
+    "banner": "https://cdn.pixabay.com/photo/2015/08/03/10/27/banner-873111_960_720.jpg",
+    "playlists": {
+        "misc": [
+            {
+                "title": "ESTÁDIO 97 - AO VIVO - 07/11/22 - AO VIVO",
+                "url": "https://www.youtube.com/watch?v=6i5u40hjmG8",
+                "thumb": "https://i.ytimg.com/vi/6i5u40hjmG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIDuOq--ZUll-tvpiyNg1cjGkE5Q"
+            },
+            {
+                "title": "CASIMIRO REAGE: MASTERCHEF PROFISSIONAIS! X1 MAIS ESPERADO (EP8 - TEMP 04) PT. 2 |Cortes do Casimito",
+                "url": "https://www.youtube.com/watch?v=2e7bqvPUYZk",
+                "thumb": "https://i.ytimg.com/vi/V1PIUb6UDiU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzJvOcbhNOW6E1AuttNtj7QgHfnQ"
+            },
+            {
+                "title": "Ganhei um Dragão e olha no que deu! | MRG",
+                "url": "https://www.youtube.com/watch?v=LhGXkFp_1JM",
+                "thumb": "https://i.ytimg.com/vi/LhGXkFp_1JM/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLCJ4BxrAgmxbACfLTjcps0eDjI3nw"
+            },
+            {
+                "title": "Trailer de Homem-Formiga e a Vespa: Quantumania - O maior menor herói do MCU!",
+                "url": "https://www.youtube.com/watch?v=OVqcFWzxlvY",
+                "thumb": "https://i.ytimg.com/vi/OVqcFWzxlvY/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLDfrOmIPtUKkHvoFLxM4i04FTuFwQ"
+            },
+            {
+                "title": "ESTÁDIO 97 - AO VIVO - 07/11/22 - AO VIVO",
+                "url": "https://www.youtube.com/watch?v=6i5u40hjmG8",
+                "thumb": "https://i.ytimg.com/vi/6i5u40hjmG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIDuOq--ZUll-tvpiyNg1cjGkE5Q"
+            },
+            {
+                "title": "CASIMIRO REAGE: MASTERCHEF PROFISSIONAIS! X1 MAIS ESPERADO (EP8 - TEMP 04) PT. 2 |Cortes do Casimito",
+                "url": "https://www.youtube.com/watch?v=2e7bqvPUYZk",
+                "thumb": "https://i.ytimg.com/vi/V1PIUb6UDiU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzJvOcbhNOW6E1AuttNtj7QgHfnQ"
+            },
+            {
+                "title": "Ganhei um Dragão e olha no que deu! | MRG",
+                "url": "https://www.youtube.com/watch?v=LhGXkFp_1JM",
+                "thumb": "https://i.ytimg.com/vi/LhGXkFp_1JM/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLCJ4BxrAgmxbACfLTjcps0eDjI3nw"
+            },
+            {
+                "title": "Trailer de Homem-Formiga e a Vespa: Quantumania - O maior menor herói do MCU!",
+                "url": "https://www.youtube.com/watch?v=OVqcFWzxlvY",
+                "thumb": "https://i.ytimg.com/vi/OVqcFWzxlvY/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLDfrOmIPtUKkHvoFLxM4i04FTuFwQ"
+            }
+        ],
+        "sports": [
+            {
+                "title": "WEVERTON É CONVOCADO E RECEBE SURPRESA ESPECIAL",
+                "url": "https://www.youtube.com/watch?v=HtH7CKx9SdQ",
+                "thumb": "https://i.ytimg.com/vi/HtH7CKx9SdQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjStnUgKRMBPtBsFzhct8xG8XbUQ"
+            },
+            {
+                "title": "GUSTAVO SCARPA SE DESPEDE DA TORCIDA QUE CANTA E VIBRA",
+                "url": "https://www.youtube.com/watch?v=P1pJU1ZfcaI",
+                "thumb": "https://i.ytimg.com/vi/P1pJU1ZfcaI/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLAjakemkRNSsI4rjJgHeAQUt2lxFA"
+            },
+            {
+                "title": "PRÉ-GP DE SÃO PAULO: 21ª ETAPA DA TEMPORADA 2022 DE F1",
+                "url": "https://www.youtube.com/watch?v=42CMF-5KgaU",
+                "thumb": "https://i.ytimg.com/vi/42CMF-5KgaU/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLBqgAXsvSF9c4_V-E89IxuUcnaMIg"
+            }
+        ]
+    }
+}
